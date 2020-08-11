@@ -1,0 +1,77 @@
+{
+	"nameShort": "pattern-lang-ide",
+	"nameLong": "Pattern-Lang IDE",
+	"applicationName": "pattern-lang-ide",
+	"dataFolderName": ".pattern-lang-ide",
+	"win32MutexName": "pattern-lang-ide",
+	"licenseName": "patternlang EULA",
+	"licenseUrl": "https://github.com/patternlang/pattern-lang-ide/blob/main/LICENSE.txt",
+	"win32DirName": "Pattern-Lang IDE",
+	"win32NameVersion": "Pattern-Lang IDE",
+	"win32RegValueName": "pattern-lang-ide",
+	"win32AppId": "{{3CDA9209-99FF-4FA9-A159-6FF1CF74AFFC}",
+	"win32arm64AppId": "{{CE990004-CD34-40DB-A6D3-02D23F409980}",
+	"win32x64AppId": "{{4756AACF-93B9-45A5-A38E-15615485125C}",
+	"win32UserAppId": "{{A89E6340-1988-4061-B3F1-E2BB33D3F58C}",
+	"win32x64UserAppId": "{{D251A347-4554-4691-B0E6-E4C2F855D8F7}",
+	"win32arm64UserAppId": "{{156FA6FB-9E71-48AB-A1CF-D22F8055292E}",
+	"win32AppUserModelId": "patternlang.pattern-lang-ide",
+	"win32ShellNameShort": "Pattern-Lang IDE",
+	"darwinBundleIdentifier": "com.pattern-lang-ide.oss",
+	"linuxIconName": "com.pattern-lang-ide.oss",
+	"licenseFileName": "LICENSE.txt",
+	"reportIssueUrl": "https://github.com/patternlang/pattern-lang-ide/issues/new?labels=customer%20reported%20issue",
+	"requestFeatureUrl": "https://github.com/patternlang/pattern-lang-ide/issues",
+	"privacyStatementUrl": "",
+	"telemetryOptOutUrl": "",
+	"urlProtocol": "pattern-lang-ide",
+	"enableTelemetry": false,
+	"aiConfig": {
+	},
+	"sendASmile": {
+		"reportIssueUrl": "https://github.com/patternlang/pattern-lang-ide/issues",
+		"requestFeatureUrl": "https://github.com/patternlang/pattern-lang-ide/issues"
+	},
+	"gettingStartedUrl": "https://github.com/patternlang/pattern-lang-ide",
+	"releaseNotesUrl": "https://github.com/patternlang/pattern-lang-ide",
+	"documentationUrl": "https://github.com/patternlang/pattern-lang-ide",
+	"vscodeVersion": "1.48.0",
+	"commit": "",
+	"date": "",
+	"recommendedExtensions": [
+		"patternlang.admin-pack",
+		"patternlang.admin-tool-ext-win",
+		"patternlang.agent",
+		"patternlang.pattern-lang-ide-postgresql",
+		"patternlang.cms",
+		"patternlang.dacpac",
+		"patternlang.import",
+		"patternlang.managed-instance-dashboard",
+		"patternlang.powershell",
+		"patternlang.profiler",
+		"patternlang.query-history",
+		"patternlang.schema-compare",
+		"patternlang.sql-assessment",
+		"patternlang.datavirtualization",
+		"Redgate.sql-prompt",
+		"Redgate.sql-search",
+		"IDERA.sqldm-performance-insights",
+		"SentryOne.plan-explorer"
+	],
+	"recommendedExtensionsByScenario": {
+		"visualizerExtensions": [
+			"msrvida.azdata-sanddance"
+		]
+	},
+	"extensionAllowedProposedApi": [
+		"ms-vscode.vscode-js-profile-flame",
+		"ms-vscode.vscode-js-profile-table",
+		"ms-vscode.references-view",
+		"ms-vscode.github-browser"
+	],
+	"extensionsGallery": {
+		"serviceUrl": "https://sqlopsextensions.blob.core.windows.net/marketplace/v1/extensionsGallery.json"
+	},
+	"builtInExtensions": [
+	]
+}
