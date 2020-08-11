@@ -1,0 +1,8 @@
+coverage
+out/test
+src
+.gitignore
+coverConfig.json
+tsconfig.json
+cgmanifest.json
+.vscode
